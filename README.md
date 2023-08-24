@@ -1,7 +1,7 @@
 # 2WayListWithRandomRefSerialization
 This is my implementation of a test task from one of the AAA gaming companies.
 
-Serialization turned out to be not-so-glamorous in terms of expected performance on a large size list, but DeepCopy and Deserialize are fantastic IMHO.
+Serialization turned out to be not-so-glamorous in terms of expected performance on a large size list, but DeepCopy and Deserialize are pretty good IMHO.
 (Benchmarks included)
 
 Here is the Task Description:
